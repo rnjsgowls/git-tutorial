@@ -1,0 +1,1218 @@
+[00:00:00]: 
+System Memory:
+	Memory Load: 73%
+	Available Physical Memory: 2086m/7916m
+	Available Page File: 7187m/16108m
+	Available Virtual Memory: 134213455m/134217727m
+	Available Extended Virtual Memory: 0m
+[00:00:00]: 
+Process Memory:
+	Peak Working Set Size: 33m
+	Working Set Size: 33m
+	Quota Peak Page Pool Usage: 257k
+	Quota Page Pool Usage: 255k
+	Quota Peak Non Paged Pool Usage:17k
+	Quota Non Paged Pool Usage: 17k
+	Page File Usage: 6m
+	Peak Page File Usage: 6m
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 639083
+[00:00:00]: Current time: Thu Nov 28 23:35:20 2024
+
+[00:00:00]: Don't Starve Together: 639083 WIN32_STEAM
+[00:00:00]: Build Date: 2939
+[00:00:00]: Mode: 64-bit
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: 
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: Steam AppBuildID: 16244386
+[00:00:00]: ....Done
+[00:00:00]: PersistUserStorage is now APP:Klei//DoNotStarveTogether/1844131039/ 
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (15012)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:3.53
+[00:00:00]: Mounting file system databundles/klump.zip successful.
+[00:00:00]: Mounting file system databundles/shaders.zip successful.
+[00:00:00]: Mounting file system databundles/fonts.zip successful.
+[00:00:00]: Mounting file system databundles/anim_dynamic.zip successful.
+[00:00:00]: Mounting file system databundles/bigportraits.zip successful.
+[00:00:00]: Mounting file system databundles/images.zip successful.
+[00:00:00]: Mounting file system databundles/scripts.zip successful.
+[00:00:00]: THREAD - started 'IC' (1208)
+[00:00:00]: Texture Streaming: ENABLED
+[00:00:00]: Texture Streaming: DISABLED
+[00:00:00]: Threaded Renderer: ENABLED
+[00:00:00]: THREAD - started 'SimUpdateThread' (16288)
+[00:00:00]: THREAD - started 'RenderThread' (3084)
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Platform: 1
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application C:\Program Files (x86)\Steam\steamapps\common\Don't Starve Together\bin64\dontstarve_steam_x64.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: THREAD - started 'StreamInput' (12276)
+[00:00:00]: could not load ping_cache
+[00:00:00]: Offline user ID: OU_76561199804396767
+[00:00:00]: SteamID: 76561199804396767
+[00:00:00]: THREAD - started 'AsynTextureLoadthread' (7872)
+[00:00:00]: THREAD - started 'AsynTextureLoadthread' (4720)
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 11 Pro
+    version                   10.0.22631
+    platformSpecific          SP 0.0
+    architecture              64비트
+  CPU                       
+    clockSpeed                2419
+    name                      11th Gen Intel(R) Core(TM) i5-1135G7 @ 2.40GHz
+    manufacturer              GenuineIntel
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+  RAM                       
+    megsOfRam                 8192
+  GPU                       
+    megsOfRam                 1024
+    videoModeDescription      2560 x 1600 x 4294967296색
+    name                      Intel(R) Iris(R) Xe Graphics
+    driverVersion             30.0.100.9836
+    driverDate                20210806000000.000000-000
+    refreshRate               60
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: WindowManager::Initialize
+[00:00:00]: CreateWindow: Requesting 1280,720 - 5/6/5 - -1/-1/-1 - 0
+[00:00:00]: CreateEGLContext: 16 configs found
+[00:00:00]:      0: 8/8/8 -  0/ 0/ 0 - 0
+[00:00:00]:      1: 8/8/8 -  0/16/ 0 - 0
+[00:00:00]:      2: 8/8/8 -  0/24/ 0 - 0
+[00:00:00]:      3: 8/8/8 -  0/24/ 8 - 0
+[00:00:00]:      4: 5/5/5 -  0/ 0/ 0 - 0
+[00:00:00]:      5: 5/5/5 -  1/ 0/ 0 - 0
+[00:00:00]:      6: 5/5/5 -  0/16/ 0 - 0
+[00:00:00]:      7: 5/5/5 -  1/16/ 0 - 0
+[00:00:00]:      8: 5/5/5 -  0/24/ 0 - 0
+[00:00:00]:      9: 5/5/5 -  1/24/ 0 - 0
+[00:00:00]:     10: 5/5/5 -  0/24/ 8 - 0
+[00:00:00]:     11: 5/5/5 -  1/24/ 8 - 0
+[00:00:00]:     12: 8/8/8 -  8/ 0/ 0 - 0
+[00:00:00]:     13: 8/8/8 -  8/16/ 0 - 0
+[00:00:00]:     14: 8/8/8 -  8/24/ 0 - 0
+[00:00:00]:     15: 8/8/8 -  8/24/ 8 - 0
+[00:00:00]: GLInfo
+[00:00:00]: ~~~~~~
+[00:00:00]: GL_VENDOR: Google Inc.
+[00:00:00]: GL_RENDERER: ANGLE (Intel(R) Iris(R) Xe Graphics)
+[00:00:00]: GL_VERSION: OpenGL ES 2.0 (ANGLE 1.0.0.2249)
+[00:00:00]: GL_SHADING_LANGUAGE_VERSION: OpenGL ES GLSL ES 1.00 (ANGLE 1.0.0.2249)
+[00:00:00]: THREAD - started 'WindowsInputManager' (12384)
+[00:00:00]: OpenGL extensions (19, 19):
+[00:00:00]: GL_ANGLE_depth_texture
+[00:00:00]: GL_ANGLE_framebuffer_blit
+[00:00:00]: GL_ANGLE_framebuffer_multisample
+[00:00:00]: GL_ANGLE_instanced_arrays
+[00:00:00]: GL_ANGLE_pack_reverse_row_order
+[00:00:00]: GL_ANGLE_texture_compression_dxt3
+[00:00:00]: GL_ANGLE_texture_compression_dxt5
+[00:00:00]: GL_ANGLE_texture_usage
+[00:00:00]: GL_ANGLE_translated_shader_source
+[00:00:00]: GL_EXT_read_format_bgra
+[00:00:00]: GL_EXT_robustness
+[00:00:00]: GL_EXT_texture_compression_dxt1
+[00:00:00]: GL_EXT_texture_format_BGRA8888
+[00:00:00]: GL_EXT_texture_storage
+[00:00:00]: GL_OES_get_program_binary
+[00:00:00]: GL_OES_packed_depth_stencil
+[00:00:00]: GL_OES_rgb8_rgba8
+[00:00:00]: GL_OES_standard_derivatives
+[00:00:00]: GL_OES_texture_npot
+[00:00:00]: GL_MAX_TEXTURE_SIZE = 8192
+[00:00:00]: GL_MAX_TEXTURE_IMAGE_UNITS = 16
+[00:00:00]: GL_MAX_RENDERBUFFER_SIZE = 8192
+[00:00:00]: GL_MAX_VIEWPORT_DIMS = 8192, 8192
+[00:00:00]: GL_MAX_VARYING_VECTORS = 10
+[00:00:00]: GL_MAX_VERTEX_ATTRIBS = 16
+[00:00:00]: GL_MAX_VERTEX_UNIFORM_VECTORS = 254
+[00:00:00]: GL_MAX_VERTEX_TEXTURE_IMAGE_UNITS = 4
+[00:00:00]: GL_MAX_FRAGMENT_UNIFORM_VECTORS = 221
+[00:00:00]: 4 compressed texture formats
+[00:00:00]: texture format 0x83f0
+[00:00:00]: texture format 0x83f1
+[00:00:00]: texture format 0x83f2
+[00:00:00]: texture format 0x83f3
+[00:00:01]: Renderer initialize: Okay
+[00:00:01]: AnimManager initialize: Okay
+[00:00:01]: Buffers initialize: Okay
+[00:00:01]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:01]: GameSpecific initialize: Okay
+[00:00:01]: cGame::StartPlaying
+[00:00:01]: AppVersion::GetArchitecture() x64
+[00:00:01]: LOADING LUA
+[00:00:01]: DoLuaFile scripts/main.lua
+[00:00:01]: DoLuaFile loading buffer scripts/main.lua
+[00:00:02]:   taskgrouplist:	default	Together	
+[00:00:02]:   taskgrouplist:	classic	Classic	
+[00:00:02]:   taskgrouplist:	cave_default	Underground	
+[00:00:02]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:00:02]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:00:02]: Running main.lua
+	
+[00:00:02]: Could not load modindex	
+[00:00:02]: ModIndex: Beginning normal load sequence.
+	
+[00:00:02]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:00:02]: Failed to load skilltree file itself!	
+[00:00:02]: Trying to apply online cache of skilltree data..	
+[00:00:02]: Which also failed. This error is unrecoverable. Skill tree will be cleared.	
+[00:00:05]: LOADING LUA SUCCESS
+[00:00:05]: PlayerDeaths could not load morgue	
+[00:00:05]: PlayerHistory could not load player_history	
+[00:00:05]: ServerPreferences could not load server_preferences	
+[00:00:05]: ConsoleScreenSettings could not load consolescreen	
+[00:00:05]: bloom_enabled	true	
+[00:00:05]: EnableShadeRenderer: 	true	
+[00:00:05]: OnFilesLoaded()	
+[00:00:05]: OnUpdatePurchaseStateComplete	
+[00:00:05]: Klump load on boot started.	
+[00:00:05]: Klump files loaded: 	0	
+[00:00:07]: 	Load FE	
+[00:00:08]: 	Load FE: done	
+[00:00:08]: THREAD - started 'FilesExistAsyncThread' (4960)
+[00:00:08]: FilesExistAsyncThread started (25695 files)...
+[00:00:08]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1844131039/client_save/blocklist.txt (Failure)
+[00:00:08]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1844131039/client_save/adminlist.txt (Failure)
+[00:00:08]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1844131039/client_save/whitelist.txt (Failure)
+[00:00:08]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=KR&lang=korean&version=639083	
+[00:00:08]: Check for write access: TRUE
+[00:00:08]: Check for read access: TRUE
+[00:00:08]: Available disk space for save files: 127753 MB
+[00:00:08]: ModIndex: Load sequence finished successfully.	
+[00:00:08]: Reset() returning
+[00:00:08]: Do AutoLogin	
+[00:00:08]: [Steam] Auth Session Ticket requested...
+[00:00:08]: [Steam] Got Auth Session Ticket
+[00:00:08]: [MOTD] Done Loading.	
+[00:00:08]: [MOTD] Downloading image for box8 from https://klei-motd.klei.com/dst/dod/steam/en/Chester_MOTD_1af9c.tex
+[00:00:09]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box8.tex
+[00:00:09]: [MOTD] Downloading image for box4 from https://klei-motd.klei.com/dst/dod/steam/en/roseches_7127c.tex
+[00:00:09]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box4.tex
+[00:00:09]: [MOTD] Downloading image for box7 from https://klei-motd.klei.com/dst/dod/steam/en/pirateches_ff418.tex
+[00:00:10]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box7.tex
+[00:00:10]: [MOTD] Downloading image for box5 from https://klei-motd.klei.com/dst/dod/steam/en/critter_93021.tex
+[00:00:11]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box5.tex
+[00:00:11]: [MOTD] Downloading image for box9 from https://klei-motd.klei.com/dst/dod/steam/en/lostandfound_b9d90.tex
+[00:00:12]: ... FilesExistAsyncThread complete
+[00:00:12]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box9.tex
+[00:00:12]: [MOTD] Downloading image for box1 from https://klei-motd.klei.com/dst/dod/steam/en/roadmap2024motd_742ed.tex
+[00:00:13]: [200] Account Communication Success (3)
+[00:00:13]: Cached userid (null) saved to APP:Klei//DoNotStarveTogether/1844131039/client_save/cached_userid
+[00:00:13]: Logging in as KU_TCDTvc7p
+[00:00:13]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box1.tex
+[00:00:13]: [MOTD] Downloading image for box3 from https://klei-motd.klei.com/dst/dod/steam/en/krampusmotd_285a4.tex
+[00:00:13]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box3.tex
+[00:00:13]: [MOTD] Downloading image for box2 from https://klei-motd.klei.com/dst/dod/steam/en/discord_776e2.tex
+[00:00:13]: [MOTD] MOTDImageLoader: Downloaded image: ../data/images/motd_box2.tex
+[00:00:15]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/pricing_cache
+[00:00:15]: There is no active event to get the status of.
+[00:00:17]: could not load pending_keyvalues_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_cookbook_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_plantregistry_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_generic_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_skilltree_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook0_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook1_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook2_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook3_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook4_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook5_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook6_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook7_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook8_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook9_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook10_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook11_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook12_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook13_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook14_prod
+[00:00:18]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/keyvalue_scrapbook15_prod
+[00:00:18]: could not load inventory_cache_prod
+[00:00:26]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/inventory_cache_prod
+[00:00:26]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/inventory_cache_prod_sig
+[00:00:27]: [Workshop] ItemQuery got this many results: 0, matching: 0
+[00:00:27]: [Workshop] ModQuery got 0 results
+[00:00:27]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:00:27]: [Workshop] ItemQuery finished downloading everything
+[00:02:19]: [SetItemOpened_Complete Success:200] {"Error":false,"UserID":"KU_TCDTvc7p","Modified":1732804658.301883,"ItemID":206989577862306532}
+
+[00:02:32]: [SetItemOpened_Complete Success:200] {"Error":false,"UserID":"KU_TCDTvc7p","Modified":1732804671.2125566,"ItemID":206989577862306521}
+
+[00:02:37]: [SetItemOpened_Complete Success:200] {"Error":false,"UserID":"KU_TCDTvc7p","Modified":1732804675.5800166,"ItemID":206989577862306508}
+
+[00:02:38]: [SetItemOpened_Complete Success:200] {"Error":false,"UserID":"KU_TCDTvc7p","Modified":1732804676.5179245,"ItemID":206989577862306498}
+
+[00:02:38]: [Workshop] ItemQuery got this many results: 0, matching: 0
+[00:02:38]: [Workshop] ModQuery got 0 results
+[00:02:38]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:38]: [Workshop] ItemQuery finished downloading everything
+[00:02:43]: Getting top mod details...
+[00:02:43]: [Workshop] ItemQuery got this many results: 0, matching: 0
+[00:02:43]: [Workshop] ModQuery got 0 results
+[00:02:43]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:43]: [Workshop] ItemQuery finished downloading everything
+[00:02:43]: [Workshop] ItemQuery got this many results: 0, matching: 0
+[00:02:43]: [Workshop] ModQuery got 0 results
+[00:02:43]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:43]: [Workshop] ItemQuery finished downloading everything
+[00:02:43]: GOT top mod details...50
+[00:02:47]: [Workshop] ItemQuery got this many results: 0, matching: 0
+[00:02:47]: [Workshop] ModQuery got 0 results
+[00:02:47]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:47]: [Workshop] ItemQuery finished downloading everything
+[00:02:47]: Frontend-Unloading mod 'all'.	
+[00:02:51]: Getting display mode: Querying display 1 [of 1]
+[00:02:51]: 	\: 2560, 1600, 60
+[00:02:58]: Getting top mod details...
+[00:02:58]: GOT top mod details...50
+[00:02:58]: [Workshop] ItemQuery got this many results: 0, matching: 0
+[00:02:58]: [Workshop] ModQuery got 0 results
+[00:02:58]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:58]: [Workshop] ItemQuery finished downloading everything
+[00:02:58]: [Workshop] ItemQuery got this many results: 0, matching: 0
+[00:02:58]: [Workshop] ModQuery got 0 results
+[00:02:58]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:02:58]: [Workshop] ItemQuery finished downloading everything
+[00:03:39]: Frontend-Unloading mod 'all'.	
+[00:03:41]: Getting top mod details...
+[00:03:41]: GOT top mod details...50
+[00:03:41]: [Workshop] ItemQuery got this many results: 6, matching: 6
+[00:03:41]: [Workshop] ModQuery got 6 results
+[00:03:41]: [Workshop] ModQuery queued to download IDs: 2391292843 2391246365 2391197502 1984386976 682849998 508348231
+[00:03:41]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:03:41]: [Workshop] ItemQuery downloading 2 pending mods marked to download
+[00:03:41]: [Workshop] DownloadPublishedFile [7] 1984386976
+[00:03:41]: [Workshop] DownloadPublishedFile [7] 508348231
+[00:03:41]: [Workshop] OnDownloadPublishedUGCFile [1] 1984386976
+[00:03:41]: [Workshop] ODPUF noticed this is a legacy item
+[00:03:41]: [Workshop] ODPUF is trying to unpack the mod into folder: C:\Program Files (x86)\Steam\steamapps\workshop\content\322330\1984386976\777370773399732076_legacy.bin
+[00:03:41]: THREAD - started 'cUnpackModThread' (1784)
+[00:03:41]: [Workshop] UMFD is now trying to unpack the mod
+[00:03:41]: DelDirectory [../mods/workshop-1984386976] 2: FAILED
+[00:03:41]: cWorkshopMod::UnzipMod ../mods/workshop-1984386976
+[00:03:42]: [Workshop] OnDownloadPublishedUGCFile [1] 508348231
+[00:03:42]: [Workshop] ODPUF noticed this is a legacy item
+[00:03:42]: [Workshop] ODPUF is trying to unpack the mod into folder: C:\Program Files (x86)\Steam\steamapps\workshop\content\322330\508348231\272841093776385017_legacy.bin
+[00:03:42]: [Workshop] ODPUF subscribed mods completed
+[00:03:42]: THREAD - started 'cUnpackModThread' (4512)
+[00:03:42]: [Workshop] UMFD is now trying to unpack the mod
+[00:03:42]: DelDirectory [../mods/workshop-508348231] 2: FAILED
+[00:03:42]: cWorkshopMod::UnzipMod ../mods/workshop-508348231
+[00:04:12]: Frontend-Unloading mod 'all'.	
+[00:04:14]: Getting top mod details...
+[00:04:14]: GOT top mod details...50
+[00:04:15]: [Workshop] ItemQuery got this many results: 6, matching: 6
+[00:04:15]: [Workshop] ModQuery got 6 results
+[00:04:15]: [Workshop] ModQuery queued to download IDs: 2391292843 2391246365 2391197502 1984386976 682849998 508348231
+[00:04:15]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:04:15]: [Workshop] ItemQuery finished downloading everything
+[00:04:22]: FrontendLoadMod	workshop-508348231	
+[00:04:22]: Could not load mod_config_data/modconfiguration_workshop-508348231	
+[00:04:22]: Fontend-Loading mod: workshop-508348231 (I Love Korean) Version:1.0.1	
+[00:04:22]: Mod: workshop-508348231 (I Love Korean)	Loading modservercreationmain.lua	
+[00:04:22]: Mod: workshop-508348231 (I Love Korean)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:04:22]: Mod: workshop-508348231 (I Love Korean)	Loading modworldgenmain.lua	
+[00:04:22]: Mod: workshop-508348231 (I Love Korean)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:23]: FrontendLoadMod	workshop-2391197502	
+[00:04:23]: Could not load mod_config_data/modconfiguration_workshop-2391197502	
+[00:04:23]: Fontend-Loading mod: workshop-2391197502 (굶지마 다함께 한글꼴) Version:1.2.3	
+[00:04:23]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modservercreationmain.lua	
+[00:04:23]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:04:23]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modworldgenmain.lua	
+[00:04:23]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:24]: FrontendLoadMod	workshop-2391246365	
+[00:04:24]: Could not load mod_config_data/modconfiguration_workshop-2391246365	
+[00:04:24]: Fontend-Loading mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전]) Version:1.3.2-20241125.00	
+[00:04:24]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modservercreationmain.lua	
+[00:04:24]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Mod had no modservercreationmain.lua. Skipping.	
+[00:04:24]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modworldgenmain.lua	
+[00:04:24]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:24]: Frontend-Unloading mod 'workshop-2391246365'.	
+[00:04:25]: FrontendLoadMod	workshop-2391246365	
+[00:04:25]: Could not load mod_config_data/modconfiguration_workshop-2391246365	
+[00:04:25]: Fontend-Loading mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전]) Version:1.3.2-20241125.00	
+[00:04:25]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modservercreationmain.lua	
+[00:04:25]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Mod had no modservercreationmain.lua. Skipping.	
+[00:04:25]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modworldgenmain.lua	
+[00:04:25]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:26]: FrontendLoadMod	workshop-1984386976	
+[00:04:26]: Could not load mod_config_data/modconfiguration_workshop-1984386976	
+[00:04:26]: Fontend-Loading mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정) Version:0.6.91.20200125.00 fix2	
+[00:04:26]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modservercreationmain.lua	
+[00:04:26]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:04:26]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modworldgenmain.lua	
+[00:04:26]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:27]: FrontendLoadMod	workshop-682849998	
+[00:04:27]: Could not load mod_config_data/modconfiguration_workshop-682849998	
+[00:04:27]: Fontend-Loading mod: workshop-682849998 (한글 입력기) Version:2.0.5	
+[00:04:27]: Mod: workshop-682849998 (한글 입력기)	Loading modservercreationmain.lua	
+[00:04:27]: Mod: workshop-682849998 (한글 입력기)	  Mod had no modservercreationmain.lua. Skipping.	
+[00:04:27]: Mod: workshop-682849998 (한글 입력기)	Loading modworldgenmain.lua	
+[00:04:27]: Mod: workshop-682849998 (한글 입력기)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:29]: Collecting garbage...
+[00:04:29]: lua_gc took 0.08 seconds
+[00:04:29]: ~ShardLuaProxy()
+[00:04:29]: ~cEventLeaderboardProxy()
+[00:04:29]: ~ItemServerLuaProxy()
+[00:04:29]: ~InventoryLuaProxy()
+[00:04:29]: ~NetworkLuaProxy()
+[00:04:29]: ~SimLuaProxy()
+[00:04:29]: [Workshop] CancelDownloads for all pending downloads
+[00:04:29]: lua_close took 0.09 seconds
+[00:04:29]: ReleaseAll
+[00:04:29]: ReleaseAll Finished
+[00:04:29]: cGame::StartPlaying
+[00:04:29]: AppVersion::GetArchitecture() x64
+[00:04:29]: LOADING LUA
+[00:04:29]: DoLuaFile scripts/main.lua
+[00:04:29]: DoLuaFile loading buffer scripts/main.lua
+[00:04:30]:   taskgrouplist:	default	Together	
+[00:04:30]:   taskgrouplist:	classic	Classic	
+[00:04:30]:   taskgrouplist:	cave_default	Underground	
+[00:04:30]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:04:30]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:04:30]: Running main.lua
+	
+[00:04:30]: loaded modindex	
+[00:04:30]: ModIndex: Beginning normal load sequence.
+	
+[00:04:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1984386976	
+[00:04:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-508348231	
+[00:04:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391197502	
+[00:04:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-682849998	
+[00:04:30]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391246365	
+[00:04:30]: Could not load mod_config_data/modconfiguration_workshop-1984386976	
+[00:04:30]: Loading mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정) Version:0.6.91.20200125.00 fix2	
+[00:04:30]: Could not load mod_config_data/modconfiguration_workshop-508348231	
+[00:04:30]: Loading mod: workshop-508348231 (I Love Korean) Version:1.0.1	
+[00:04:30]: Could not load mod_config_data/modconfiguration_workshop-2391197502	
+[00:04:30]: Loading mod: workshop-2391197502 (굶지마 다함께 한글꼴) Version:1.2.3	
+[00:04:30]: Could not load mod_config_data/modconfiguration_workshop-682849998	
+[00:04:30]: Loading mod: workshop-682849998 (한글 입력기) Version:2.0.5	
+[00:04:30]: Could not load mod_config_data/modconfiguration_workshop-2391246365	
+[00:04:30]: Loading mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전]) Version:1.3.2-20241125.00	
+[00:04:30]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modworldgenmain.lua	
+[00:04:30]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:30]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modmain.lua	
+[00:04:30]: Translator:LoadPOFile - loading file: ../mods/workshop-2391246365/scripts/languages/ko.po	
+[00:04:32]: modimport: ../mods/workshop-2391246365/scripts/fix_playstyle	
+[00:04:32]: Mod: workshop-682849998 (한글 입력기)	Loading modworldgenmain.lua	
+[00:04:32]: Mod: workshop-682849998 (한글 입력기)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:32]: Mod: workshop-682849998 (한글 입력기)	Loading modmain.lua	
+[00:04:32]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modworldgenmain.lua	
+[00:04:32]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:32]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modmain.lua	
+[00:04:32]: Translator:LoadPOFile - loading file: ../mods/workshop-1984386976/ko.po	
+[00:04:33]: Mod: workshop-508348231 (I Love Korean)	Loading modworldgenmain.lua	
+[00:04:33]: Mod: workshop-508348231 (I Love Korean)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:33]: Mod: workshop-508348231 (I Love Korean)	Loading modmain.lua	
+[00:04:33]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modworldgenmain.lua	
+[00:04:33]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:04:33]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modmain.lua	
+[00:04:34]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:04:34]: Failed to load skilltree file itself!	
+[00:04:34]: Trying to apply online cache of skilltree data..	
+[00:04:34]: Was a success, using old stored XP values of:	
+[00:04:34]: 	(empty)	
+[00:04:34]: Also using old stored skill selection values of:	
+[00:04:34]: 	(empty)	
+[00:04:34]: Saving skilltree file as a fixup.	
+[00:04:34]: LOADING LUA SUCCESS
+[00:04:34]: PlayerDeaths could not load morgue	
+[00:04:34]: PlayerHistory could not load player_history	
+[00:04:34]: ServerPreferences could not load server_preferences	
+[00:04:34]: ConsoleScreenSettings could not load consolescreen	
+[00:04:34]: bloom_enabled	true	
+[00:04:34]: EnableShadeRenderer: 	true	
+[00:04:34]: loaded shardsaveindex	
+[00:04:34]: OnFilesLoaded()	
+[00:04:34]: OnUpdatePurchaseStateComplete	
+[00:04:34]: Klump load on boot started.	
+[00:04:34]: Klump files loaded: 	0	
+[00:04:34]: 	Unload BE	
+[00:04:34]: 	Unload BE done	
+[00:04:37]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Registering prefabs	
+[00:04:37]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Registering default mod prefab	
+[00:04:37]: Mod: workshop-682849998 (한글 입력기)	Registering prefabs	
+[00:04:37]: Mod: workshop-682849998 (한글 입력기)	  Registering default mod prefab	
+[00:04:37]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Registering prefabs	
+[00:04:37]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Registering default mod prefab	
+[00:04:37]: Mod: workshop-508348231 (I Love Korean)	Registering prefabs	
+[00:04:37]: Mod: workshop-508348231 (I Love Korean)	  Registering default mod prefab	
+[00:04:37]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Registering prefabs	
+[00:04:37]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Registering default mod prefab	
+[00:04:37]: 	Load FE	
+[00:04:38]: 	Load FE: done	
+[00:04:38]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1844131039/client_save/blocklist.txt (Failure)
+[00:04:38]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/1844131039/client_save/adminlist.txt (Failure)
+[00:04:38]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/1844131039/client_save/whitelist.txt (Failure)
+[00:04:38]: [MOTD] Downloading info from	https://motd.klei.com/motd.json/?game=dst&platform=STEAM&locale=KR&lang=korean&version=639083	
+[00:04:38]: Check for write access: TRUE
+[00:04:38]: Check for read access: TRUE
+[00:04:38]: Available disk space for save files: 127696 MB
+[00:04:38]: ModIndex: Load sequence finished successfully.	
+[00:04:38]: Reset() returning
+[00:04:39]: [MOTD] Done Loading.	
+[00:04:44]: Do AutoLogin	
+[00:04:46]: [200] Account Communication Success (6)
+[00:04:46]: Received (KU_TCDTvc7p) from TokenPurpose
+[00:04:46]: [Steam] Auth Session Ticket requested...
+[00:04:46]: [Steam] Got Auth Session Ticket
+[00:04:46]: There is no active event to get the status of.
+[00:04:47]: could not load pending_keyvalues_prod
+[00:04:48]: loaded inventory_cache_prod
+[00:04:48]: using inventory state token from cached file
+[00:04:51]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/inventory_cache_prod
+[00:04:51]: saved APP:Klei//DoNotStarveTogether/1844131039/client_save/inventory_cache_prod_sig
+[00:04:51]: [Workshop] ItemQuery got this many results: 6, matching: 6
+[00:04:51]: [Workshop] ModQuery got 6 results
+[00:04:51]: [Workshop] ModQuery queued to download IDs: 2391292843 2391246365 2391197502 1984386976 682849998 508348231
+[00:04:51]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:04:51]: [Workshop] ItemQuery finished downloading everything
+[00:05:06]: [Workshop] ItemQuery got this many results: 6, matching: 6
+[00:05:06]: [Workshop] ModQuery got 6 results
+[00:05:06]: [Workshop] ModQuery queued to download IDs: 2391292843 2391246365 2391197502 1984386976 682849998 508348231
+[00:05:06]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:05:06]: [Workshop] ItemQuery finished downloading everything
+[00:05:21]: Getting top mod details...
+[00:05:21]: Frontend-Unloading mod 'all'.	
+[00:05:21]: GOT top mod details...50
+[00:05:21]: [Workshop] ItemQuery got this many results: 6, matching: 6
+[00:05:21]: [Workshop] ModQuery got 6 results
+[00:05:21]: [Workshop] ModQuery queued to download IDs: 2391292843 2391246365 2391197502 1984386976 682849998 508348231
+[00:05:21]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:05:21]: [Workshop] ItemQuery finished downloading everything
+[00:05:21]: [Workshop] ItemQuery got this many results: 6, matching: 6
+[00:05:21]: [Workshop] ModQuery got 6 results
+[00:05:21]: [Workshop] ModQuery queued to download IDs: 2391292843 2391246365 2391197502 1984386976 682849998 508348231
+[00:05:21]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:05:21]: [Workshop] ItemQuery finished downloading everything
+[00:05:54]: [IPC] Signal 'DST_Master_Starting' created  #0000000000000890
+[00:05:54]: [IPC] Clearing pending signals #0000000000000890...
+[00:05:54]: [IPC] Registering handler for signal #0000000000000890
+[00:05:54]: [IPC] Handle #0000000000000890 added to the Eventhandles
+[00:05:54]: [IPC] Signal 'DST_Master_WorldGen' created  #0000000000000AB0
+[00:05:54]: [IPC] Clearing pending signals #0000000000000AB0...
+[00:05:54]: [IPC] Registering handler for signal #0000000000000AB0
+[00:05:54]: [IPC] Handle #0000000000000AB0 added to the Eventhandles
+[00:05:54]: [IPC] Signal 'DST_Master_Ready' created  #0000000000000AF4
+[00:05:54]: [IPC] Clearing pending signals #0000000000000AF4...
+[00:05:54]: [IPC] Registering handler for signal #0000000000000AF4
+[00:05:54]: [IPC] Handle #0000000000000AF4 added to the Eventhandles
+[00:05:54]: [IPC] Signal 'DST_Master_ErrPort' created  #0000000000000AAC
+[00:05:54]: [IPC] Clearing pending signals #0000000000000AAC...
+[00:05:54]: [IPC] Registering handler for signal #0000000000000AAC
+[00:05:54]: [IPC] Handle #0000000000000AAC added to the Eventhandles
+[00:05:54]: [IPC] Signal 'DST_Master_ErrStartup' created  #0000000000000B20
+[00:05:54]: [IPC] Clearing pending signals #0000000000000B20...
+[00:05:54]: [IPC] Registering handler for signal #0000000000000B20
+[00:05:54]: [IPC] Handle #0000000000000B20 added to the Eventhandles
+[00:05:54]: [IPC] Signal 'DST_Master_Kill' created  #0000000000000AD0
+[00:05:54]: [IPC] Clearing pending signals #0000000000000AD0...
+[00:05:54]: [IPC] Signal 'DST_Master_ShutdownNoSave' created  #0000000000000A7C
+[00:05:54]: [IPC] Clearing pending signals #0000000000000A7C...
+[00:05:54]: [IPC] Signal 'DST_Secondary_Starting' created  #0000000000000ADC
+[00:05:54]: [IPC] Clearing pending signals #0000000000000ADC...
+[00:05:54]: [IPC] Registering handler for signal #0000000000000ADC
+[00:05:54]: [IPC] Handle #0000000000000ADC added to the Eventhandles
+[00:05:54]: [IPC] Signal 'DST_Secondary_WorldGen' created  #0000000000000A88
+[00:05:54]: [IPC] Clearing pending signals #0000000000000A88...
+[00:05:54]: [IPC] Registering handler for signal #0000000000000A88
+[00:05:54]: [IPC] Handle #0000000000000A88 added to the Eventhandles
+[00:05:54]: [IPC] Signal 'DST_Secondary_Ready' created  #0000000000000A98
+[00:05:54]: [IPC] Clearing pending signals #0000000000000A98...
+[00:05:54]: [IPC] Registering handler for signal #0000000000000A98
+[00:05:54]: [IPC] Handle #0000000000000A98 added to the Eventhandles
+[00:05:54]: [IPC] Signal 'DST_Secondary_ErrPort' created  #00000000000006E8
+[00:05:54]: [IPC] Clearing pending signals #00000000000006E8...
+[00:05:54]: [IPC] Registering handler for signal #00000000000006E8
+[00:05:54]: [IPC] Handle #00000000000006E8 added to the Eventhandles
+[00:05:54]: [IPC] Signal 'DST_Secondary_ErrStartup' created  #0000000000000B08
+[00:05:54]: [IPC] Clearing pending signals #0000000000000B08...
+[00:05:54]: [IPC] Registering handler for signal #0000000000000B08
+[00:05:54]: [IPC] Handle #0000000000000B08 added to the Eventhandles
+[00:05:54]: [IPC] Signal 'DST_Secondary_Kill' created  #0000000000000A64
+[00:05:54]: [IPC] Clearing pending signals #0000000000000A64...
+[00:05:54]: [IPC] Signal 'DST_Secondary_ShutdownNoSave' created  #0000000000000A18
+[00:05:54]: [IPC] Clearing pending signals #0000000000000A18...
+[00:06:20]: [IPC] Received DST_Master Starting signal !
+[00:06:20]: [IPC] Received DST_Secondary Starting signal !
+[00:06:30]: [IPC] Received DST_Master WorldGen signal !
+[00:06:31]: [IPC] Received DST_Secondary WorldGen signal !
+[00:10:04]: [IPC] Received DST_Master Ready signal !
+[00:10:10]: [IPC] Received DST_Secondary Ready signal !
+[00:10:10]: [Connect] Init client connection to 127.0.0.1|10999
+[00:10:10]: [Connect] PendingConnection::Reset(true)
+[00:10:10]: [Workshop] CancelDownloads for all pending downloads
+[00:10:10]: [Connect] InternalInitClient <5173595817852730877>
+[00:10:10]: [Shard] Starting shard mode as player
+[00:10:10]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:10:10]: [Connect] Sending ping(s)...
+[00:10:10]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[00:10:10]: [Connect] Ping response from 127.0.0.1|10999
+[00:10:10]: [Connect] Joining server from ping response...
+[00:10:10]: Friends are currently playing in 0 games(s)!
+[00:10:10]: You belong to 0 clan(s)!
+[00:10:10]: [Connect] Got join server response from lua
+[00:10:10]: [Workshop] ItemQuery got this many results: 6, matching: 6
+[00:10:10]: [Workshop] ModQuery got 6 results
+[00:10:10]: [Workshop] ModQuery queued to download IDs: 2391292843 2391246365 2391197502 1984386976 682849998 508348231
+[00:10:10]: [Workshop] ItemQuery finished all queries, moving to download phase
+[00:10:10]: [Workshop] ItemQuery finished downloading everything
+[00:10:11]: [200] Account Communication Success (13)
+[00:10:11]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:10:11]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:10:11]: Connection accepted to 127.0.0.1|10999 <2370912974579004227>
+[00:10:11]: Network external address discovered: 127.0.0.1|53633
+[00:10:11]: SendClientHandShakePacket to <2370912974579004227>
+[00:10:12]: DeserializeHandShakeServerListing
+[00:10:12]: Network tick rate: U=10(3), D=15
+[00:10:12]: Platform: 1
+[00:10:12]: Version: 639083
+[00:10:12]: [Steam] Game Connection initiated
+[00:10:12]: SendClientInventoryHandShakePacket to <2370912974579004227>
+[00:10:13]: Begin Session: 0241746A27E73A77
+[00:10:13]: Done Downloading Client Object Data
+[00:10:13]: DownloadMods and temp disable	
+[00:10:13]: Downloading [0] From: server_temp
+[00:10:13]: 0 (41%) 1/1 server_temp/server_save 114000b / 271831b
+[00:10:13]: 0 (83%) 1/1 server_temp/server_save 228000b / 271831b
+[00:10:13]: 0 (100%) 1/1 server_temp/server_save 271831b / 271831b
+[00:10:13]: Download complete[0] Files: 1 Size: 271831
+[00:10:14]: Collecting garbage...
+[00:10:14]: lua_gc took 0.17 seconds
+[00:10:14]: ~ShardLuaProxy()
+[00:10:14]: ~cEventLeaderboardProxy()
+[00:10:14]: ~ItemServerLuaProxy()
+[00:10:14]: ~InventoryLuaProxy()
+[00:10:14]: ~NetworkLuaProxy()
+[00:10:14]: ~SimLuaProxy()
+[00:10:14]: Cancelling LuaQueryCallback handle [8]
+[00:10:14]: [Workshop] CancelDownloads for all pending downloads
+[00:10:14]: lua_close took 0.22 seconds
+[00:10:14]: ReleaseAll
+[00:10:14]: ReleaseAll Finished
+[00:10:14]: cGame::StartPlaying
+[00:10:14]: AppVersion::GetArchitecture() x64
+[00:10:14]: LOADING LUA
+[00:10:14]: DoLuaFile scripts/main.lua
+[00:10:14]: DoLuaFile loading buffer scripts/main.lua
+[00:10:15]:   taskgrouplist:	default	Together	
+[00:10:15]:   taskgrouplist:	classic	Classic	
+[00:10:15]:   taskgrouplist:	cave_default	Underground	
+[00:10:15]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:10:15]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:10:15]: Running main.lua
+	
+[00:10:15]: loaded modindex	
+[00:10:15]: ModIndex: Beginning normal load sequence.
+	
+[00:10:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1984386976	
+[00:10:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-508348231	
+[00:10:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391197502	
+[00:10:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-682849998	
+[00:10:15]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391246365	
+[00:10:15]: Could not load mod_config_data/modconfiguration_workshop-1984386976	
+[00:10:15]: Loading mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정) Version:0.6.91.20200125.00 fix2	
+[00:10:15]: Could not load mod_config_data/modconfiguration_workshop-508348231	
+[00:10:15]: Loading mod: workshop-508348231 (I Love Korean) Version:1.0.1	
+[00:10:15]: Could not load mod_config_data/modconfiguration_workshop-2391197502	
+[00:10:15]: Loading mod: workshop-2391197502 (굶지마 다함께 한글꼴) Version:1.2.3	
+[00:10:15]: Could not load mod_config_data/modconfiguration_workshop-682849998	
+[00:10:15]: Loading mod: workshop-682849998 (한글 입력기) Version:2.0.5	
+[00:10:15]: Could not load mod_config_data/modconfiguration_workshop-2391246365	
+[00:10:15]: Loading mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전]) Version:1.3.2-20241125.00	
+[00:10:15]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modworldgenmain.lua	
+[00:10:15]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Mod had no modworldgenmain.lua. Skipping.	
+[00:10:15]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modmain.lua	
+[00:10:15]: Translator:LoadPOFile - loading file: ../mods/workshop-2391246365/scripts/languages/ko.po	
+[00:10:17]: modimport: ../mods/workshop-2391246365/scripts/fix_playstyle	
+[00:10:17]: Mod: workshop-682849998 (한글 입력기)	Loading modworldgenmain.lua	
+[00:10:17]: Mod: workshop-682849998 (한글 입력기)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:10:17]: Mod: workshop-682849998 (한글 입력기)	Loading modmain.lua	
+[00:10:17]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modworldgenmain.lua	
+[00:10:17]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:10:17]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modmain.lua	
+[00:10:17]: Translator:LoadPOFile - loading file: ../mods/workshop-1984386976/ko.po	
+[00:10:18]: Mod: workshop-508348231 (I Love Korean)	Loading modworldgenmain.lua	
+[00:10:18]: Mod: workshop-508348231 (I Love Korean)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:10:18]: Mod: workshop-508348231 (I Love Korean)	Loading modmain.lua	
+[00:10:18]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modworldgenmain.lua	
+[00:10:18]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:10:18]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modmain.lua	
+[00:10:19]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:10:19]: LOADING LUA SUCCESS
+[00:10:20]: PlayerDeaths could not load morgue	
+[00:10:20]: PlayerHistory could not load player_history	
+[00:10:20]: ServerPreferences could not load server_preferences	
+[00:10:20]: ConsoleScreenSettings could not load consolescreen	
+[00:10:20]: bloom_enabled	true	
+[00:10:20]: EnableShadeRenderer: 	true	
+[00:10:20]: OnFilesLoaded()	
+[00:10:20]: OnUpdatePurchaseStateComplete	
+[00:10:20]: Loading world: client_temp/server_save	
+[00:10:20]: Save file is at version 5.151	
+[00:10:20]: Klump load on boot started.	
+[00:10:20]: Klump files loaded: 	0	
+[00:10:20]: 	Unload FE	
+[00:10:20]: 	Unload FE done	
+[00:10:23]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Registering prefabs	
+[00:10:23]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Registering default mod prefab	
+[00:10:23]: Mod: workshop-682849998 (한글 입력기)	Registering prefabs	
+[00:10:23]: Mod: workshop-682849998 (한글 입력기)	  Registering default mod prefab	
+[00:10:23]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Registering prefabs	
+[00:10:23]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Registering default mod prefab	
+[00:10:23]: Mod: workshop-508348231 (I Love Korean)	Registering prefabs	
+[00:10:23]: Mod: workshop-508348231 (I Love Korean)	  Registering default mod prefab	
+[00:10:23]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Registering prefabs	
+[00:10:23]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Registering default mod prefab	
+[00:10:23]: 	LOAD BE	
+[00:10:40]: 	LOAD BE: done	
+[00:10:40]: OVERRIDE: setting	healthpenalty	to	always	
+[00:10:40]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:10:40]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:10:40]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:10:40]: Loading 19 new character(s)	
+[00:10:41]: Total 19 character(s) loaded	
+[00:10:42]: World generated on build 639083 with save version: 5.151, using seed: 	
+[00:10:42]: OVERRIDE: setting	ghostenabled	to	always	
+[00:10:42]: OVERRIDE: setting	basicresource_regrowth	to	none	
+[00:10:42]: OVERRIDE: setting	portalresurection	to	none	
+[00:10:42]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:10:42]: OVERRIDE: setting	ghostsanitydrain	to	always	
+[00:10:42]: Reconstructing topology	
+[00:10:42]: 	...Sorting points	
+[00:10:42]: 	...Sorting edges	
+[00:10:42]: 	...Connecting nodes	
+[00:10:42]: 	...Validating connections	
+[00:10:42]: 	...Housekeeping	
+[00:10:42]: 	...Done!	
+[00:10:42]: Could not unload undefined prefab (fontprefab)
+[00:10:42]: Check for write access: TRUE
+[00:10:42]: Check for read access: TRUE
+[00:10:42]: Available disk space for save files: 127697 MB
+[00:10:42]: ModIndex: Load sequence finished successfully.	
+[00:10:42]: Reset() returning
+[00:10:59]: Attempting to send resume request
+[00:11:00]: ReceiveResumeNotification
+[00:11:00]: Deleting user: session/0241746A27E73A77/A7JKODEUCOFJ/0000000001
+[00:12:21]: Movement prediction enabled	
+[00:12:21]: Deserializing tile data (425 x 425)
+[00:12:21]: Serializing user: session/0241746A27E73A77/A7JKODEUCOFJ/0000000001
+[00:19:48]: Locomotor: Waiting for server...
+[00:19:48]: Locomotor: Resynced
+[00:20:20]: Serializing user: session/0241746A27E73A77/A7JKODEUCOFJ/0000000001
+[00:24:56]: Server Autopaused	
+[00:24:58]: Server Unpaused	
+[00:26:05]: Server Autopaused	
+[00:26:09]: Server Unpaused	
+[00:26:10]: Server Autopaused	
+[00:26:11]: Server Unpaused	
+[00:26:12]: Server Autopaused	
+[00:26:14]: Server Unpaused	
+[00:28:33]: Serializing user: session/0241746A27E73A77/A7JKODEUCOFJ/0000000001
+[00:29:44]: Server Autopaused	
+[00:29:47]: Server Unpaused	
+[00:32:26]: Serializing user: session/0241746A27E73A77/A7JKODEUCOFJ/0000000001
+[00:32:26]: [Shard] Starting LAN migration...
+[00:32:26]: [Connect] SetMigrationInfo 127.0.0.1|10998 []
+[00:32:26]: Received ID_DST_SHARD_SILENT_DISCONNECT
+[00:32:26]: Collecting garbage...
+[00:32:27]: lua_gc took 0.12 seconds
+[00:32:27]: ~ShardLuaProxy()
+[00:32:27]: ~cEventLeaderboardProxy()
+[00:32:27]: ~ItemServerLuaProxy()
+[00:32:27]: ~InventoryLuaProxy()
+[00:32:27]: ~NetworkLuaProxy()
+[00:32:27]: ~SimLuaProxy()
+[00:32:27]: [Workshop] CancelDownloads for all pending downloads
+[00:32:27]: lua_close took 0.18 seconds
+[00:32:27]: ReleaseAll
+[00:32:27]: ReleaseAll Finished
+[00:32:27]: cGame::StartPlaying
+[00:32:27]: AppVersion::GetArchitecture() x64
+[00:32:27]: LOADING LUA
+[00:32:27]: DoLuaFile scripts/main.lua
+[00:32:27]: DoLuaFile loading buffer scripts/main.lua
+[00:32:27]:   taskgrouplist:	default	Together	
+[00:32:27]:   taskgrouplist:	classic	Classic	
+[00:32:27]:   taskgrouplist:	cave_default	Underground	
+[00:32:27]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:32:27]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:32:28]: Running main.lua
+	
+[00:32:28]: loaded modindex	
+[00:32:28]: ModIndex: Beginning normal load sequence.
+	
+[00:32:28]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1984386976	
+[00:32:28]: ModIndex:GetModsToLoad inserting moddir, 	workshop-508348231	
+[00:32:28]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391197502	
+[00:32:28]: ModIndex:GetModsToLoad inserting moddir, 	workshop-682849998	
+[00:32:28]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391246365	
+[00:32:28]: Could not load mod_config_data/modconfiguration_workshop-1984386976	
+[00:32:28]: Loading mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정) Version:0.6.91.20200125.00 fix2	
+[00:32:28]: Could not load mod_config_data/modconfiguration_workshop-508348231	
+[00:32:28]: Loading mod: workshop-508348231 (I Love Korean) Version:1.0.1	
+[00:32:28]: Could not load mod_config_data/modconfiguration_workshop-2391197502	
+[00:32:28]: Loading mod: workshop-2391197502 (굶지마 다함께 한글꼴) Version:1.2.3	
+[00:32:28]: Could not load mod_config_data/modconfiguration_workshop-682849998	
+[00:32:28]: Loading mod: workshop-682849998 (한글 입력기) Version:2.0.5	
+[00:32:28]: Could not load mod_config_data/modconfiguration_workshop-2391246365	
+[00:32:28]: Loading mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전]) Version:1.3.2-20241125.00	
+[00:32:28]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modworldgenmain.lua	
+[00:32:28]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Mod had no modworldgenmain.lua. Skipping.	
+[00:32:28]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modmain.lua	
+[00:32:28]: Translator:LoadPOFile - loading file: ../mods/workshop-2391246365/scripts/languages/ko.po	
+[00:32:30]: modimport: ../mods/workshop-2391246365/scripts/fix_playstyle	
+[00:32:30]: Mod: workshop-682849998 (한글 입력기)	Loading modworldgenmain.lua	
+[00:32:30]: Mod: workshop-682849998 (한글 입력기)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:32:30]: Mod: workshop-682849998 (한글 입력기)	Loading modmain.lua	
+[00:32:30]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modworldgenmain.lua	
+[00:32:30]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:32:30]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modmain.lua	
+[00:32:30]: Translator:LoadPOFile - loading file: ../mods/workshop-1984386976/ko.po	
+[00:32:31]: Mod: workshop-508348231 (I Love Korean)	Loading modworldgenmain.lua	
+[00:32:31]: Mod: workshop-508348231 (I Love Korean)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:32:31]: Mod: workshop-508348231 (I Love Korean)	Loading modmain.lua	
+[00:32:31]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modworldgenmain.lua	
+[00:32:31]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:32:31]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modmain.lua	
+[00:32:32]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:32:32]: LOADING LUA SUCCESS
+[00:32:32]: PlayerDeaths could not load morgue	
+[00:32:32]: PlayerHistory could not load player_history	
+[00:32:32]: ServerPreferences could not load server_preferences	
+[00:32:32]: ConsoleScreenSettings could not load consolescreen	
+[00:32:32]: bloom_enabled	true	
+[00:32:32]: EnableShadeRenderer: 	true	
+[00:32:32]: OnFilesLoaded()	
+[00:32:32]: OnUpdatePurchaseStateComplete	
+[00:32:32]: [Connect] Init client connection to 127.0.0.1|10998
+[00:32:32]: [Connect] PendingConnection::Reset(true)
+[00:32:32]: [Steam] Game Connection terminated (2130706433|10999)
+[00:32:32]: [Shard] Stopping shard mode
+[00:32:32]: [Workshop] CancelDownloads for all pending downloads
+[00:32:32]: [Connect] InternalInitClient <6995540902489131094>
+[00:32:32]: [Shard] Starting shard mode as player
+[00:32:32]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:32:32]: [Connect] Sending ping(s)...
+[00:32:32]: [Connect] DirectConnect Ping 127.0.0.1|10998
+[00:32:32]: Check for write access: TRUE
+[00:32:32]: Check for read access: TRUE
+[00:32:32]: Available disk space for save files: 126125 MB
+[00:32:32]: ModIndex: Load sequence finished successfully.	
+[00:32:32]: Reset() returning
+[00:32:32]: [Connect] Server has no net id, not attempting punchthrough.
+[00:32:32]: [Connect] DirectConnect Ping 127.0.0.1|10998
+[00:32:32]: [Connect] Ping response from 127.0.0.1|10998
+[00:32:32]: [Connect] Joining server from ping response...
+[00:32:32]: [Connect] Got join server response from lua
+[00:32:33]: [200] Account Communication Success (13)
+[00:32:33]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10998
+[00:32:33]: [Connect] DirectConnect to 127.0.0.1|10998
+[00:32:33]: Connection accepted to 127.0.0.1|10998 <2370912974086524977>
+[00:32:33]: Network external address discovered: 127.0.0.1|50097
+[00:32:33]: SendClientHandShakePacket to <2370912974086524977>
+[00:32:34]: DeserializeHandShakeServerListing
+[00:32:34]: Network tick rate: U=10(3), D=15
+[00:32:34]: Platform: 1
+[00:32:34]: Version: 639083
+[00:32:34]: [Steam] Game Connection initiated
+[00:32:34]: Begin Session: 618605A0D8072BD7
+[00:32:35]: Done Downloading Client Object Data
+[00:32:35]: DownloadMods and temp disable	
+[00:32:35]: Downloading [1] From: server_temp
+[00:32:35]: 1 (40%) 1/1 server_temp/server_save 114000b / 278303b
+[00:32:35]: 1 (81%) 1/1 server_temp/server_save 228000b / 278303b
+[00:32:35]: 1 (100%) 1/1 server_temp/server_save 278303b / 278303b
+[00:32:35]: Download complete[1] Files: 1 Size: 278303
+[00:32:35]: Collecting garbage...
+[00:32:35]: lua_gc took 0.05 seconds
+[00:32:35]: ~ShardLuaProxy()
+[00:32:35]: ~cEventLeaderboardProxy()
+[00:32:35]: ~ItemServerLuaProxy()
+[00:32:35]: ~InventoryLuaProxy()
+[00:32:35]: ~NetworkLuaProxy()
+[00:32:35]: ~SimLuaProxy()
+[00:32:35]: Cancelling LuaQueryCallback handle [10]
+[00:32:35]: [Workshop] CancelDownloads for all pending downloads
+[00:32:35]: lua_close took 0.05 seconds
+[00:32:35]: ReleaseAll
+[00:32:35]: ReleaseAll Finished
+[00:32:35]: cGame::StartPlaying
+[00:32:35]: AppVersion::GetArchitecture() x64
+[00:32:35]: LOADING LUA
+[00:32:35]: DoLuaFile scripts/main.lua
+[00:32:35]: DoLuaFile loading buffer scripts/main.lua
+[00:32:36]:   taskgrouplist:	default	Together	
+[00:32:36]:   taskgrouplist:	classic	Classic	
+[00:32:36]:   taskgrouplist:	cave_default	Underground	
+[00:32:36]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:32:36]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:32:36]: Running main.lua
+	
+[00:32:36]: loaded modindex	
+[00:32:36]: ModIndex: Beginning normal load sequence.
+	
+[00:32:36]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1984386976	
+[00:32:36]: ModIndex:GetModsToLoad inserting moddir, 	workshop-508348231	
+[00:32:36]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391197502	
+[00:32:36]: ModIndex:GetModsToLoad inserting moddir, 	workshop-682849998	
+[00:32:36]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391246365	
+[00:32:36]: Could not load mod_config_data/modconfiguration_workshop-1984386976	
+[00:32:36]: Loading mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정) Version:0.6.91.20200125.00 fix2	
+[00:32:36]: Could not load mod_config_data/modconfiguration_workshop-508348231	
+[00:32:36]: Loading mod: workshop-508348231 (I Love Korean) Version:1.0.1	
+[00:32:36]: Could not load mod_config_data/modconfiguration_workshop-2391197502	
+[00:32:36]: Loading mod: workshop-2391197502 (굶지마 다함께 한글꼴) Version:1.2.3	
+[00:32:36]: Could not load mod_config_data/modconfiguration_workshop-682849998	
+[00:32:36]: Loading mod: workshop-682849998 (한글 입력기) Version:2.0.5	
+[00:32:36]: Could not load mod_config_data/modconfiguration_workshop-2391246365	
+[00:32:36]: Loading mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전]) Version:1.3.2-20241125.00	
+[00:32:36]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modworldgenmain.lua	
+[00:32:36]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Mod had no modworldgenmain.lua. Skipping.	
+[00:32:36]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modmain.lua	
+[00:32:36]: Translator:LoadPOFile - loading file: ../mods/workshop-2391246365/scripts/languages/ko.po	
+[00:32:38]: modimport: ../mods/workshop-2391246365/scripts/fix_playstyle	
+[00:32:38]: Mod: workshop-682849998 (한글 입력기)	Loading modworldgenmain.lua	
+[00:32:38]: Mod: workshop-682849998 (한글 입력기)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:32:38]: Mod: workshop-682849998 (한글 입력기)	Loading modmain.lua	
+[00:32:38]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modworldgenmain.lua	
+[00:32:38]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:32:38]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modmain.lua	
+[00:32:38]: Translator:LoadPOFile - loading file: ../mods/workshop-1984386976/ko.po	
+[00:32:39]: Mod: workshop-508348231 (I Love Korean)	Loading modworldgenmain.lua	
+[00:32:39]: Mod: workshop-508348231 (I Love Korean)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:32:39]: Mod: workshop-508348231 (I Love Korean)	Loading modmain.lua	
+[00:32:39]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modworldgenmain.lua	
+[00:32:39]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:32:39]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modmain.lua	
+[00:32:39]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:32:39]: LOADING LUA SUCCESS
+[00:32:39]: PlayerDeaths could not load morgue	
+[00:32:39]: PlayerHistory could not load player_history	
+[00:32:39]: ServerPreferences could not load server_preferences	
+[00:32:39]: ConsoleScreenSettings could not load consolescreen	
+[00:32:39]: bloom_enabled	true	
+[00:32:39]: EnableShadeRenderer: 	true	
+[00:32:39]: OnFilesLoaded()	
+[00:32:39]: OnUpdatePurchaseStateComplete	
+[00:32:39]: Loading world: client_temp/server_save	
+[00:32:39]: Save file is at version 5.151	
+[00:32:39]: Klump load on boot started.	
+[00:32:39]: Klump files loaded: 	0	
+[00:32:40]: 	Unload characters	
+[00:32:40]: 	BE assets already loaded	
+[00:32:41]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Registering prefabs	
+[00:32:41]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Registering default mod prefab	
+[00:32:41]: Mod: workshop-682849998 (한글 입력기)	Registering prefabs	
+[00:32:41]: Mod: workshop-682849998 (한글 입력기)	  Registering default mod prefab	
+[00:32:41]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Registering prefabs	
+[00:32:41]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Registering default mod prefab	
+[00:32:41]: Mod: workshop-508348231 (I Love Korean)	Registering prefabs	
+[00:32:41]: Mod: workshop-508348231 (I Love Korean)	  Registering default mod prefab	
+[00:32:41]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Registering prefabs	
+[00:32:41]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Registering default mod prefab	
+[00:32:41]: OVERRIDE: setting	healthpenalty	to	always	
+[00:32:41]: OVERRIDE: setting	acidrain_enabled	to	always	
+[00:32:41]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:32:41]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:32:41]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:32:41]: Loading 19 new character(s)	
+[00:32:41]: Total 19 character(s) loaded	
+[00:32:42]: World generated on build 639083 with save version: 5.151, using seed: 	
+[00:32:42]: OVERRIDE: setting	ghostenabled	to	always	
+[00:32:42]: OVERRIDE: setting	basicresource_regrowth	to	none	
+[00:32:42]: OVERRIDE: setting	portalresurection	to	none	
+[00:32:42]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:32:42]: OVERRIDE: setting	ghostsanitydrain	to	always	
+[00:32:42]: Reconstructing topology	
+[00:32:42]: 	...Sorting points	
+[00:32:42]: 	...Sorting edges	
+[00:32:42]: 	...Connecting nodes	
+[00:32:42]: 	...Validating connections	
+[00:32:42]: 	...Housekeeping	
+[00:32:42]: 	...Done!	
+[00:32:42]: Check for write access: TRUE
+[00:32:42]: Check for read access: TRUE
+[00:32:42]: Available disk space for save files: 126125 MB
+[00:32:42]: ModIndex: Load sequence finished successfully.	
+[00:32:42]: Reset() returning
+[00:32:53]: Attempting to send resume request
+[00:32:53]: ReceiveResumeNotification
+[00:32:53]: Movement prediction enabled	
+[00:32:53]: Deserializing tile data (425 x 425)
+[00:32:53]: Serializing user: session/0241746A27E73A77/A7JKODEUCOFJ/0000000001
+[00:33:27]: Server Autopaused	
+[00:33:33]: Server Unpaused	
+[00:34:06]: Serializing user: session/0241746A27E73A77/A7JKODEUCOFJ/0000000001
+[00:34:06]: Attempting to send resume request
+[00:34:06]: [Shard] Starting LAN migration...
+[00:34:06]: [Connect] SetMigrationInfo 127.0.0.1|10999 []
+[00:34:06]: Received ID_DST_SHARD_SILENT_DISCONNECT
+[00:34:07]: Collecting garbage...
+[00:34:07]: lua_gc took 0.11 seconds
+[00:34:07]: ~ShardLuaProxy()
+[00:34:07]: ~cEventLeaderboardProxy()
+[00:34:07]: ~ItemServerLuaProxy()
+[00:34:07]: ~InventoryLuaProxy()
+[00:34:07]: ~NetworkLuaProxy()
+[00:34:07]: ~SimLuaProxy()
+[00:34:07]: [Workshop] CancelDownloads for all pending downloads
+[00:34:07]: lua_close took 0.14 seconds
+[00:34:07]: ReleaseAll
+[00:34:07]: ReleaseAll Finished
+[00:34:07]: cGame::StartPlaying
+[00:34:07]: AppVersion::GetArchitecture() x64
+[00:34:07]: LOADING LUA
+[00:34:07]: DoLuaFile scripts/main.lua
+[00:34:07]: DoLuaFile loading buffer scripts/main.lua
+[00:34:07]:   taskgrouplist:	default	Together	
+[00:34:07]:   taskgrouplist:	classic	Classic	
+[00:34:07]:   taskgrouplist:	cave_default	Underground	
+[00:34:07]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:34:07]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:34:08]: Running main.lua
+	
+[00:34:08]: loaded modindex	
+[00:34:08]: ModIndex: Beginning normal load sequence.
+	
+[00:34:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1984386976	
+[00:34:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-508348231	
+[00:34:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391197502	
+[00:34:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-682849998	
+[00:34:08]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391246365	
+[00:34:08]: Could not load mod_config_data/modconfiguration_workshop-1984386976	
+[00:34:08]: Loading mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정) Version:0.6.91.20200125.00 fix2	
+[00:34:08]: Could not load mod_config_data/modconfiguration_workshop-508348231	
+[00:34:08]: Loading mod: workshop-508348231 (I Love Korean) Version:1.0.1	
+[00:34:08]: Could not load mod_config_data/modconfiguration_workshop-2391197502	
+[00:34:08]: Loading mod: workshop-2391197502 (굶지마 다함께 한글꼴) Version:1.2.3	
+[00:34:08]: Could not load mod_config_data/modconfiguration_workshop-682849998	
+[00:34:08]: Loading mod: workshop-682849998 (한글 입력기) Version:2.0.5	
+[00:34:08]: Could not load mod_config_data/modconfiguration_workshop-2391246365	
+[00:34:08]: Loading mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전]) Version:1.3.2-20241125.00	
+[00:34:08]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modworldgenmain.lua	
+[00:34:08]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Mod had no modworldgenmain.lua. Skipping.	
+[00:34:08]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modmain.lua	
+[00:34:08]: Translator:LoadPOFile - loading file: ../mods/workshop-2391246365/scripts/languages/ko.po	
+[00:34:10]: modimport: ../mods/workshop-2391246365/scripts/fix_playstyle	
+[00:34:10]: Mod: workshop-682849998 (한글 입력기)	Loading modworldgenmain.lua	
+[00:34:10]: Mod: workshop-682849998 (한글 입력기)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:34:10]: Mod: workshop-682849998 (한글 입력기)	Loading modmain.lua	
+[00:34:10]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modworldgenmain.lua	
+[00:34:10]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:34:10]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modmain.lua	
+[00:34:10]: Translator:LoadPOFile - loading file: ../mods/workshop-1984386976/ko.po	
+[00:34:11]: Mod: workshop-508348231 (I Love Korean)	Loading modworldgenmain.lua	
+[00:34:11]: Mod: workshop-508348231 (I Love Korean)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:34:11]: Mod: workshop-508348231 (I Love Korean)	Loading modmain.lua	
+[00:34:11]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modworldgenmain.lua	
+[00:34:11]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:34:11]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modmain.lua	
+[00:34:11]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:34:11]: LOADING LUA SUCCESS
+[00:34:11]: PlayerDeaths could not load morgue	
+[00:34:11]: PlayerHistory could not load player_history	
+[00:34:11]: ServerPreferences could not load server_preferences	
+[00:34:11]: ConsoleScreenSettings could not load consolescreen	
+[00:34:11]: bloom_enabled	true	
+[00:34:11]: EnableShadeRenderer: 	true	
+[00:34:11]: OnFilesLoaded()	
+[00:34:11]: OnUpdatePurchaseStateComplete	
+[00:34:11]: [Connect] Init client connection to 127.0.0.1|10999
+[00:34:11]: [Connect] PendingConnection::Reset(true)
+[00:34:11]: [Steam] Game Connection terminated (2130706433|10998)
+[00:34:11]: [Shard] Stopping shard mode
+[00:34:12]: [Workshop] CancelDownloads for all pending downloads
+[00:34:12]: [Connect] InternalInitClient <2096814170280954445>
+[00:34:12]: [Shard] Starting shard mode as player
+[00:34:12]: [Connect] No server listing found for <UNASSIGNED_RAKNET_GUID>
+[00:34:12]: [Connect] Sending ping(s)...
+[00:34:12]: [Connect] DirectConnect Ping 127.0.0.1|10999
+[00:34:12]: Check for write access: TRUE
+[00:34:12]: Check for read access: TRUE
+[00:34:12]: Available disk space for save files: 126124 MB
+[00:34:12]: ModIndex: Load sequence finished successfully.	
+[00:34:12]: Reset() returning
+[00:34:12]: [Connect] Ping response from 127.0.0.1|10999
+[00:34:12]: [Connect] Joining server from ping response...
+[00:34:12]: [Connect] Got join server response from lua
+[00:34:14]: [200] Account Communication Success (13)
+[00:34:14]: [Connect] PendingConnectionDoConnect to 127.0.0.1|10999
+[00:34:14]: [Connect] DirectConnect to 127.0.0.1|10999
+[00:34:14]: Connection accepted to 127.0.0.1|10999 <2370912974579004227>
+[00:34:14]: Network external address discovered: 127.0.0.1|50320
+[00:34:14]: SendClientHandShakePacket to <2370912974579004227>
+[00:34:15]: DeserializeHandShakeServerListing
+[00:34:15]: Network tick rate: U=10(3), D=15
+[00:34:15]: Platform: 1
+[00:34:15]: Version: 639083
+[00:34:15]: [Steam] Game Connection initiated
+[00:34:15]: Begin Session: 0241746A27E73A77
+[00:34:15]: Done Downloading Client Object Data
+[00:34:15]: DownloadMods and temp disable	
+[00:34:15]: Downloading [2] From: server_temp
+[00:34:15]: 2 (41%) 1/1 server_temp/server_save 114000b / 271831b
+[00:34:15]: 2 (83%) 1/1 server_temp/server_save 228000b / 271831b
+[00:34:15]: 2 (100%) 1/1 server_temp/server_save 271831b / 271831b
+[00:34:15]: Download complete[2] Files: 1 Size: 271831
+[00:34:15]: Collecting garbage...
+[00:34:15]: lua_gc took 0.04 seconds
+[00:34:15]: ~ShardLuaProxy()
+[00:34:15]: ~cEventLeaderboardProxy()
+[00:34:15]: ~ItemServerLuaProxy()
+[00:34:15]: ~InventoryLuaProxy()
+[00:34:15]: ~NetworkLuaProxy()
+[00:34:15]: ~SimLuaProxy()
+[00:34:15]: Cancelling LuaQueryCallback handle [12]
+[00:34:15]: [Workshop] CancelDownloads for all pending downloads
+[00:34:15]: lua_close took 0.05 seconds
+[00:34:15]: ReleaseAll
+[00:34:15]: ReleaseAll Finished
+[00:34:15]: cGame::StartPlaying
+[00:34:15]: AppVersion::GetArchitecture() x64
+[00:34:15]: LOADING LUA
+[00:34:15]: DoLuaFile scripts/main.lua
+[00:34:15]: DoLuaFile loading buffer scripts/main.lua
+[00:34:16]:   taskgrouplist:	default	Together	
+[00:34:16]:   taskgrouplist:	classic	Classic	
+[00:34:16]:   taskgrouplist:	cave_default	Underground	
+[00:34:16]:   taskgrouplist:	lavaarena_taskset	The Forge	
+[00:34:16]:   taskgrouplist:	quagmire_taskset	The Gorge	
+[00:34:16]: Running main.lua
+	
+[00:34:16]: loaded modindex	
+[00:34:16]: ModIndex: Beginning normal load sequence.
+	
+[00:34:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-1984386976	
+[00:34:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-508348231	
+[00:34:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391197502	
+[00:34:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-682849998	
+[00:34:16]: ModIndex:GetModsToLoad inserting moddir, 	workshop-2391246365	
+[00:34:16]: Could not load mod_config_data/modconfiguration_workshop-1984386976	
+[00:34:16]: Loading mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정) Version:0.6.91.20200125.00 fix2	
+[00:34:16]: Could not load mod_config_data/modconfiguration_workshop-508348231	
+[00:34:16]: Loading mod: workshop-508348231 (I Love Korean) Version:1.0.1	
+[00:34:16]: Could not load mod_config_data/modconfiguration_workshop-2391197502	
+[00:34:16]: Loading mod: workshop-2391197502 (굶지마 다함께 한글꼴) Version:1.2.3	
+[00:34:16]: Could not load mod_config_data/modconfiguration_workshop-682849998	
+[00:34:16]: Loading mod: workshop-682849998 (한글 입력기) Version:2.0.5	
+[00:34:16]: Could not load mod_config_data/modconfiguration_workshop-2391246365	
+[00:34:16]: Loading mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전]) Version:1.3.2-20241125.00	
+[00:34:16]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modworldgenmain.lua	
+[00:34:16]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Mod had no modworldgenmain.lua. Skipping.	
+[00:34:16]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Loading modmain.lua	
+[00:34:16]: Translator:LoadPOFile - loading file: ../mods/workshop-2391246365/scripts/languages/ko.po	
+[00:34:18]: modimport: ../mods/workshop-2391246365/scripts/fix_playstyle	
+[00:34:18]: Mod: workshop-682849998 (한글 입력기)	Loading modworldgenmain.lua	
+[00:34:18]: Mod: workshop-682849998 (한글 입력기)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:34:18]: Mod: workshop-682849998 (한글 입력기)	Loading modmain.lua	
+[00:34:18]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modworldgenmain.lua	
+[00:34:18]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:34:18]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Loading modmain.lua	
+[00:34:18]: Translator:LoadPOFile - loading file: ../mods/workshop-1984386976/ko.po	
+[00:34:19]: Mod: workshop-508348231 (I Love Korean)	Loading modworldgenmain.lua	
+[00:34:19]: Mod: workshop-508348231 (I Love Korean)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:34:19]: Mod: workshop-508348231 (I Love Korean)	Loading modmain.lua	
+[00:34:19]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modworldgenmain.lua	
+[00:34:19]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Mod had no modworldgenmain.lua. Skipping.	
+[00:34:19]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Loading modmain.lua	
+[00:34:19]: Event data unavailable: lavaarena_event_server/lavaarena_achievement_quest_defs
+[00:34:19]: LOADING LUA SUCCESS
+[00:34:19]: PlayerDeaths could not load morgue	
+[00:34:19]: PlayerHistory could not load player_history	
+[00:34:19]: ServerPreferences could not load server_preferences	
+[00:34:19]: ConsoleScreenSettings could not load consolescreen	
+[00:34:19]: bloom_enabled	true	
+[00:34:19]: EnableShadeRenderer: 	true	
+[00:34:20]: OnFilesLoaded()	
+[00:34:20]: OnUpdatePurchaseStateComplete	
+[00:34:20]: Loading world: client_temp/server_save	
+[00:34:20]: Save file is at version 5.151	
+[00:34:20]: Klump load on boot started.	
+[00:34:20]: Klump files loaded: 	0	
+[00:34:20]: 	Unload characters	
+[00:34:20]: 	BE assets already loaded	
+[00:34:21]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	Registering prefabs	
+[00:34:21]: Mod: workshop-2391246365 (굶지마 다함께 한글화 [클라이언트 버전])	  Registering default mod prefab	
+[00:34:21]: Mod: workshop-682849998 (한글 입력기)	Registering prefabs	
+[00:34:21]: Mod: workshop-682849998 (한글 입력기)	  Registering default mod prefab	
+[00:34:21]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	Registering prefabs	
+[00:34:21]: Mod: workshop-1984386976 (한글 모드 클라이언트 버전 + 충돌 수정)	  Registering default mod prefab	
+[00:34:21]: Mod: workshop-508348231 (I Love Korean)	Registering prefabs	
+[00:34:21]: Mod: workshop-508348231 (I Love Korean)	  Registering default mod prefab	
+[00:34:21]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	Registering prefabs	
+[00:34:21]: Mod: workshop-2391197502 (굶지마 다함께 한글꼴)	  Registering default mod prefab	
+[00:34:21]: OVERRIDE: setting	healthpenalty	to	always	
+[00:34:21]: OVERRIDE: setting	lessdamagetaken	to	none	
+[00:34:21]: MiniMapComponent::AddAtlas( minimap/minimap_data1.xml )
+[00:34:21]: MiniMapComponent::AddAtlas( minimap/minimap_data2.xml )
+[00:34:21]: Loading 19 new character(s)	
+[00:34:21]: Total 19 character(s) loaded	
+[00:34:22]: World generated on build 639083 with save version: 5.151, using seed: 	
+[00:34:22]: OVERRIDE: setting	ghostenabled	to	always	
+[00:34:22]: OVERRIDE: setting	basicresource_regrowth	to	none	
+[00:34:22]: OVERRIDE: setting	portalresurection	to	none	
+[00:34:22]: OVERRIDE: setting	spawnmode	to	fixed	
+[00:34:22]: OVERRIDE: setting	ghostsanitydrain	to	always	
+[00:34:22]: Reconstructing topology	
+[00:34:22]: 	...Sorting points	
+[00:34:22]: 	...Sorting edges	
+[00:34:22]: 	...Connecting nodes	
+[00:34:22]: 	...Validating connections	
+[00:34:22]: 	...Housekeeping	
+[00:34:22]: 	...Done!	
+[00:34:22]: Check for write access: TRUE
+[00:34:22]: Check for read access: TRUE
+[00:34:22]: Available disk space for save files: 126124 MB
+[00:34:22]: ModIndex: Load sequence finished successfully.	
+[00:34:22]: Reset() returning
+[00:34:38]: Attempting to send resume request
+[00:34:39]: ReceiveResumeNotification
+[00:34:39]: Movement prediction enabled	
+[00:34:39]: Deserializing tile data (425 x 425)
+[00:34:39]: Serializing user: session/0241746A27E73A77/A7JKODEUCOFJ/0000000001
+[00:34:45]: [200] Account Communication Success (6)
+[00:34:45]: Received (KU_TCDTvc7p) from TokenPurpose
+[00:35:01]: [IPC] Sending signal... #0000000000000AD0
+[00:35:04]: [IPC] Unregistering handler for signal #0000000000000890
+[00:35:04]: [IPC] Unregistering handler for signal #0000000000000AB0
+[00:35:04]: [IPC] Unregistering handler for signal #0000000000000AF4
+[00:35:04]: [IPC] Unregistering handler for signal #0000000000000AAC
+[00:35:04]: [IPC] Unregistering handler for signal #0000000000000B20
+[00:35:04]: [IPC] Sending signal... #0000000000000A64
+[00:35:06]: [IPC] Unregistering handler for signal #0000000000000ADC
+[00:35:06]: [IPC] Unregistering handler for signal #0000000000000A88
+[00:35:06]: [IPC] Unregistering handler for signal #0000000000000A98
+[00:35:06]: [IPC] Unregistering handler for signal #00000000000006E8
+[00:35:06]: [IPC] Unregistering handler for signal #0000000000000B08
+[00:35:06]: [Steam] Game Connection terminated (2130706433|10999)
+[00:35:06]: [Shard] Stopping shard mode
+[00:35:06]: [Workshop] CancelDownloads for all pending downloads
+[00:35:06]: Collecting garbage...
+[00:35:06]: lua_gc took 0.08 seconds
+[00:35:06]: ~ShardLuaProxy()
+[00:35:06]: ~cEventLeaderboardProxy()
+[00:35:06]: ~ItemServerLuaProxy()
+[00:35:06]: ~InventoryLuaProxy()
+[00:35:06]: ~NetworkLuaProxy()
+[00:35:06]: ~SimLuaProxy()
+[00:35:06]: [Workshop] CancelDownloads for all pending downloads
+[00:35:06]: lua_close took 0.12 seconds
+[00:35:07]: [Workshop] CancelDownloads for all pending downloads
+[00:35:07]: [Steam] Auth ticket cancelled
+[00:35:08]: CurlRequestManager::ClientThread::Main() complete
+[00:35:08]: HttpClient2 discarded 0 callbacks.
+[00:35:08]: Shutting down
